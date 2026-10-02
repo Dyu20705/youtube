@@ -6,11 +6,11 @@ This repository is the central index for these projects. Each project has its ow
 
 ## Projects
 
-### Media Downloader
+### openDownloader
 
-One-Click Media Downloader is a desktop application for downloading media from URLs: paste a link, select a preset and format, choose a destination, and download. Built with Tauri, Rust, and React, it supports video and audio presets including MP4, MP3, and FLAC. It also manages and verifies the required media tools, including yt-dlp, FFmpeg, FFprobe, and MediaInfo.
+The Media downloader - is a open source (cross-platform future) media downloader built with Tauri 2, Rust, React 18, yt-dlp, FFmpeg, and MediaInfo
 
-[View repository →](https://github.com/Dyu20705/media-downloader)
+[View repository →](https://github.com/Dyu20705/openDownloader)
 
 ### YouTube Live Translate
 
